@@ -63,7 +63,7 @@ h1 span:nth-child(2)
     }       
     5%,95%
     {
-        color: #111;
+        color: #000;
         filter: blur(0px);
         text-shadow: none;
     }
